@@ -15,9 +15,7 @@
 
 - 💬 Ask me about **Website Design.**
 
-- 📫 How to reach me **10799nsahu@gmail.com**
-
-- ⚡ Fun fact **i think i am funny**
+- 📫 How to reach me **10799nsahu@gmail.com**⚡ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
