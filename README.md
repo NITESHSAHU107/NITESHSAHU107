@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://niteshsahu107.io)
+[![MasterHead](https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-splash-ink-simple-minimalistic-black-and-white-poster-background-image_161368.jpg)](https://niteshsahu107.io)
 <h1 align="center">Hi 👋, I'm Nitesh Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
